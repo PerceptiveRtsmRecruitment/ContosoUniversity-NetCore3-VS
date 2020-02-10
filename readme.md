@@ -1,4 +1,4 @@
-﻿# Contoso University (Microsoft ASP.NET Core 3)
+﻿# Contoso University - Microsoft ASP.NET Core 3
 
 ## Prerequisites
 

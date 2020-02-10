@@ -1,15 +1,19 @@
-﻿# Contoso University - Microsoft ASP.NET Core 3
+﻿Contoso University - Microsoft ASP.NET Core 3
+======
 
-## Prerequisites
+Prerequisites
+------
 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) with the ASP.NET and web development workload (the Community edition is sufficient)
 * [.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 
-## Database engines
+Database engines
+------
 
 These instructions use [SQL Server LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb), a version of SQL Server Express that runs only on Windows.
 
-## The App
+The App
+------
 
 The app is a basic university web site. Users can view and update student, course, and instructor information. Here are a few of the screens:
 
